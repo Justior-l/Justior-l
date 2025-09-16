@@ -1,5 +1,5 @@
 # Hi there 👋
-**Is this it? My first ==edited profile page==?**
+>**Is this it? My first edited profile page?**
 ---
 Sorry, I'm new to this and happy to *experiment*!
 - [x] learn to edit files in github
