@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi there 👋
+**Is this it? My first ==edited profile page==?**
+---
+Sorry, I'm new to this and happy to *experiment*!
+- [x] learn to edit files in github
+- [ ] learn to edit other peoples repositories
+- [ ] actually do something useful
 
+My favourite animals: 🐺🐘🐱
 <!--
 **Justior-l/Justior-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
