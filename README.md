@@ -2,6 +2,8 @@
 >**Is this it? My first edited profile page?**
 ---
 Sorry, I'm new to this and happy to *experiment*!
+
+Current goals:
 - [x] learn to edit files in github
 - [x] learn to edit other peoples repositories
 - [x] actually do something useful
