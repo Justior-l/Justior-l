@@ -3,8 +3,8 @@
 ---
 Sorry, I'm new to this and happy to *experiment*!
 - [x] learn to edit files in github
-- [ ] learn to edit other peoples repositories
-- [ ] actually do something useful
+- [x] learn to edit other peoples repositories
+- [x] actually do something useful
 
 My favourite animals: 🐺🐘🐱
 <!--
